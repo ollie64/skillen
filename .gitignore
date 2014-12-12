@@ -15,3 +15,6 @@ server.pid
 *.eml
 /dist/
 .cache
+bower_components
+node_modules
+
